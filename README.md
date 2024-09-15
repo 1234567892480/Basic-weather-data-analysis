@@ -1,5 +1,5 @@
 Weather Data Analysis Project
-Author: Peter Gatitu Mwangi
+Author: Nimaa osman
 Institution: Lux Tech Academy Data Bootcamp
 Overview
 
